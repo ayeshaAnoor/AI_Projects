@@ -1,15 +1,7 @@
 # AI_Projects
 # GDP Prediction Using Machine Learning Techniques
 
-## Project Documentation
-
-**Submitted by:** Ayesha Noor  
-**Degree Program:** BS Computer Science  
-**Course:** Artificial Intelligence  
-**Instructor:** Dr. Naveed Anwar Butt  
-**Submission Date:** March 2023  
-
----
+# Project Documentation
 
 ## Abstract
 This project aims to predict GDP per capita using different machine learning regression models. The goal was to understand how various socio-economic factors influence GDP and to compare the performance of different algorithms. Models applied include Linear Regression, Support Vector Machine (SVM), Random Forest, and Gradient Boosting. Among these, Random Forest produced the most accurate results, demonstrating that ensemble methods are well-suited for this type of data.
