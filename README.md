@@ -105,6 +105,4 @@ Different machine learning models were applied to predict GDP per capita. Random
 - Explore advanced models like XGBoost  
 - Perform deeper feature analysis  
 
----
-
 ## Project Structure
